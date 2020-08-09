@@ -2,11 +2,11 @@
 
 <img src="https://github.com/cseharshit/cseharshit/blob/master/static/hello.gif" width="24px">
 
-### A Formal Introduction about me in case you're judging&nbsp;
+# A Formal Introduction about me in case you're judging&nbsp;
 I am <a href = "https://cseharshit.github.io"> **Harshit Jain** </a> pursuing BTECH Degree in Computer Science and Engineering from <a href="https://www.poornima.edu.in/"> <b>Poornima University</b>, Jaipur</a>. with a specialization course in Cloud Technology and Information Security.
 
 
-## About Me
+# About Me
 
 I am an insightful young individual trying to figure out what I'm doing here. 😄
 I am very enthusisatic about the new developing tech and I crave to learn them. 
