@@ -17,19 +17,19 @@ You could find more about me <a href=https://cseharshit.github.io>here</a>..
 
 If I have to sell myself, these are my basic attributes:
 
-- 🇭 Hard-working. I'm a super lazy guy otherwise, But when I have work to do, I'd give all I have to finish it, so that  I could go back to being lazy again. xD
+- **H** Hard-working. I'm a super lazy guy otherwise, But when I have work to do, I'd give all I have to finish it, so that  I could go back to being lazy again. xD
 
-- 🅰️ Adaptable. Well, the best thing one can do is to adapt to change as quickly as possible, right? 
+- **A** Adaptable. Well, the best thing one can do is to adapt to change as quickly as possible, right? 
 
-- 🇷 Realistic. Being realistic is really important to a software developer, especially when it comes to giving or accepting deadlines. I believe, it's better to be realistic about a project, then to commit something I can't achieve.
+- **R** Realistic. Being realistic is really important to a software developer, especially when it comes to giving or accepting deadlines. I believe, it's better to be realistic about a project, then to commit something I can't achieve.
 
-- 🇸 Shrewd. Savvy?
+- **S** Shrewd. Savvy?
 
-- 🇭 Humane. If I ain't human enough, I could not be anything. It's really important for us to be socially responsible. Otherwise what is the point of doing anything?
+- **H** Humane. If I ain't human enough, I could not be anything. It's really important for us to be socially responsible. Otherwise what is the point of doing anything?
 
-- 🇮 Inquisitive. Would it hurt to know about this or that or everything? I wanna how things work.
+- **I** Inquisitive. Would it hurt to know about this or that or everything? I wanna how things work.
 
-- 🇹 Truthful. You can't grow further without being true to yourself. 
+- **T** Truthful. You can't grow further without being true to yourself. 
 
 
 # 💻 Technical Skills I possess:
