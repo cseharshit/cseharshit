@@ -15,7 +15,7 @@ I am very enthusisatic about the new developing tech and I crave to learn them.<
 I believe that technology could bring peace to the world and my goal is to find a way to do that.<br> 
 You could find more about me <a href=https://cseharshit.github.io>here</a>..
 
-If I have to sell myself, these are my basic ### properties:
+If I have to sell myself, these are my basic attributes:
 
 - 🇭 Hard-working. I'm a super lazy guy otherwise, But when I have work to do, I'd give all I have to finish it, so that  I could go back to being lazy again. xD
 
