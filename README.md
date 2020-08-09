@@ -1,7 +1,7 @@
 ![](https://github.com/cseharshit/cseharshit/blob/master/harshit_jain.gif)
 
 
-# A Formal Introduction about me &nbsp;
+# A Formal Introduction &nbsp;
 - I am <a href = "https://cseharshit.github.io"> **Harshit** </a>and I am pursuing a Bachelor's Degree in Computer Science and Engineering from <a href="https://www.poornima.edu.in/"> <b>Poornima University</b>, Jaipur</a>. with a specialization course in **Cloud Technology** and **Information Security**.&nbsp; ( Well technically, I am a graduate, just waiting for my final sem's result. (Curse you Corona))
 - I am presently a Software Intern at Extern Labs Pvt. Ltd., Jaipur, and it is one of the coolest place to work with.
 - I know how to code in C, C++, Python, Golang. I am currently doing my best to practice Data Structures and Algorithms.
@@ -10,9 +10,9 @@
 
 # About Me
 
-I am an insightful young individual, although I haven't completely figured out what I'm doing here on Github. 😄&nbsp;
-I am very enthusisatic about the new developing tech and I crave to learn them. &nbsp;
-I believe that technology could bring peace to the world and my goal is to find a way to do that. &nbsp;
+I am an insightful young individual, although I haven't completely figured out what I'm doing here on Github. 😄<br>
+I am very enthusisatic about the new developing tech and I crave to learn them.<br>
+I believe that technology could bring peace to the world and my goal is to find a way to do that.<br> 
 You could find more about me <a href=https://cseharshit.github.io>here</a>..
 
 If I have to sell myself, these are my basic ### properties:
