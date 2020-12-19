@@ -27,7 +27,7 @@ If I have to sell myself, and I don't mean parts, these are my basic specificati
 
 - **H** Humane. It's really important for us to be more than human, to be humane, to be socially responsible, to have compassion for other beings. Otherwise what is the purpose of doing anything at all?
 
-- **I** Inquisitive. Would it hurt to know about this or that or everything? I wanna how things work.
+- **I** Inquisitive. Would it hurt to know about this or that or everything? I wanna know how things work.
 
 - **T** Tenacious. For less extraordinary people like me, Persistence is the only key to achieve extraordinary things. ( I learnt that from Naruto 😄) 
 
