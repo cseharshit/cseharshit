@@ -2,8 +2,8 @@
 
 
 # A Formal Introduction &nbsp;
-- I am <a href = "https://cseharshit.github.io"> **Harshit** </a>and I am pursuing a Bachelor's Degree in Computer Science and Engineering from <a href="https://www.poornima.edu.in/"> <b>Poornima University</b>, Jaipur</a>. with a specialization course in **Cloud Technology** and **Information Security**.&nbsp; ( Well technically, I am a graduate, just waiting for my final sem's result. (Curse you Corona))
-- I am presently a Software Intern at Extern Labs Pvt. Ltd., Jaipur, and it is one of the coolest place to work with.
+- I am <a href = "https://cseharshit.github.io"> **Harshit** </a>. I hold a Bachelor's Degree in Computer Science and Engineering from <a href="https://www.poornima.edu.in/"> <b>Poornima University</b>, Jaipur</a>. with a specialization course in **Cloud Technology** and **Information Security**.&nbsp;
+- I recently interned at Extern Labs Pvt. Ltd., Jaipur, and it is one of the coolest places I've worked at.
 - I know how to code in C, C++, Python, Golang. I am currently doing my best to practice Data Structures and Algorithms.
 - I am CEHv10 certified with a score of 92%, along with some other cyber security certifications. Although I am a strong believer certifications do not add value to a candidate, skills do.
 - All in all, I am an interesting guy, Okay?
@@ -13,28 +13,27 @@
 I am an insightful young individual, although I haven't completely figured out what I'm doing here on Github. 😄<br>
 I am very enthusisatic about the new developing tech and I crave to learn them.<br>
 I believe that technology could bring peace to the world and my goal is to find a way to do that.<br> 
-You could find more about me <a href=https://cseharshit.github.io>here</a>..
+You could find more about me <a href=https://cseharshitjain.me/>here</a>..
 
-If I have to sell myself, these are my basic attributes:
+If I have to sell myself, and I don't mean parts, these are my basic specifications:
 
 - **H** Hard-working. I'm a super lazy guy otherwise, But when I have work to do, I'd give all I have to finish it, so that  I could go back to being lazy again. xD
 
-- **A** Adaptable. Well, the best thing one can do is to adapt to change as quickly as possible, right? 
+- **A** Adaptable. Well, the best thing one can do is to adapt to change as quickly as possible, right? I usually just shout "PLOT TWIST" before accepting change, which by the way, is the only constant in life. 
 
-- **R** Realistic. Being realistic is really important to a software developer, especially when it comes to giving or accepting deadlines. I believe, it's better to be realistic about a project, then to commit something I can't achieve.
+- **R** Realistic. Being realistic is really important, especially as a software developer, more importantly when it comes to giving or accepting deadlines. I believe, it's better to be realistic in life, then to commit and grind myself for something I can't achieve.
 
-- **S** Shrewd. Savvy?
+- **S** Savvy. Not to bore the universe.
 
-- **H** Humane. If I ain't human enough, I could not be anything. It's really important for us to be socially responsible. Otherwise what is the point of doing anything?
+- **H** Humane. It's really important for us to be more than human, to be humane, to be socially responsible, to have compassion for other beings. Otherwise what is the purpose of doing anything at all?
 
 - **I** Inquisitive. Would it hurt to know about this or that or everything? I wanna how things work.
 
-- **T** Truthful. You can't grow further without being true to yourself. 
+- **T** Tenacious. For less extraordinary people like me, Persistence is the only key to achieve extraordinary things. ( I learnt that from Naruto 😄) 
 
 
 # 💻 Technical Skills I possess:
-- Python
-- Go
+- Python, C, C++
 - Linux
 - VAPT
 - Networking
